@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🧭I'm at the beginning of a great journey.🛤️
+🧭I'm at the beginning of a great journey.🛤️<br>
 ✍I am currently learning Python and SQL.<br>🤝I am looking to collaborate on any project that works with Python and SQL.<br>🤔💭 Ask me about anything you want, I am not sure if i will be able to answer but I will learn to help you!<br>😁I am super proactive so please, send me a message.
 
 ## 🌐 Socials:
